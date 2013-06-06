@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://centare-mobile.github.io/sitemap.xml 
