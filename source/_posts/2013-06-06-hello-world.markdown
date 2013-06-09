@@ -2,6 +2,7 @@
 layout: post
 title: "Hello World!"
 date: 2013-06-06 14:19
+author: William Welbes
 comments: true
 categories: mobile
 ---
