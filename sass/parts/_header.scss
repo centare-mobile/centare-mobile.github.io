@@ -4,7 +4,7 @@ $header-height: 30px;
 	height: $header-height;
 	padding: 30px 0;
 	margin-bottom: 100px;
-	
+
 	line-height: $header-height;
 	@media screen and (max-width: 1040px){
 		margin-bottom: 50px;
@@ -16,10 +16,10 @@ $header-height: 30px;
 	margin-bottom:40px;
 	}
 	a{
-		color: $color-gray01;
+		color: $color-main;
 		@include transition(color 0.3s);
 		&:hover{
-			color: $color-main;
+			color: $color-main-highlight;
 			border-bottom:none;
 		}
 	}

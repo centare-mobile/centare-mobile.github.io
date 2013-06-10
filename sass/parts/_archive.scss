@@ -42,7 +42,7 @@
 			margin-bottom: 0;
 		}
 		.meta{
-			color: $color-gray02;
+			color: $color-main;
 			font-size: 0.9em;
 			line-height: 2;
 			margin-top: 15px;
@@ -53,16 +53,16 @@
 				margin-right: 30px;
 				@include inline-block;
 				&:before{
-					color: $color-gray03;
+					color: $color-main;
 					font: 1.3em $font-icon;
 					padding-right: 10px;
 				}
 			}
 			a{
-				color: $color-gray02;
+				color: $color-main;
 				@include transition(0.3s);
 				&:hover{
-					color: $color-gray01;
+					color: $color-main;
 				}
 			}
 			.date:before{content: "\f073";}
