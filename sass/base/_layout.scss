@@ -20,6 +20,15 @@ body{
 	}
 }
 
+hr{
+	margin-bottom: 1.5em;
+	height: 1px;
+	border: 0;
+	color: $color-main;
+	background-color: $color-main;
+	width: 90%;
+}
+
 h1{
 	font-size: 36px;
 }
