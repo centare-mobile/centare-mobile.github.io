@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Centare Mobile Team]]></title>
-  <link href="http://centare-mobile.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iOS7 | Centare Mobile Team]]></title>
+  <link href="http://centare-mobile.github.io/blog/categories/ios7/atom.xml" rel="self"/>
   <link href="http://centare-mobile.github.io/"/>
   <updated>2013-06-12T12:59:08-05:00</updated>
   <id>http://centare-mobile.github.io/</id>
@@ -19,36 +19,6 @@
     <updated>2013-06-11T18:07:00-05:00</updated>
     <id>http://centare-mobile.github.io/blog/2013/06/11/ios-7-and-the-push-to-native</id>
     <content type="html"><![CDATA[<p>As I use the newly unveiled beta of iOS 7, I can&rsquo;t help but think that the OS is going to continue to drive more apps to full native development. As with previous releases of iOS, Apple is stretching the software and graphics capabilities in subtle but significant ways to deliver a polished best in class user experience.  In order to fully take advantage of the new UI paradigms and capabilities in iOS 7, developers will need to make use of the SDK and powerful tools it provides. HTML5 based app solutions will begin to stand out further from native and not in a good way.  Hybrid app solutions will not be able to take advantage of some of the great physics based UI elements that have been added to the iOS SDK.  Native app development is how Apple intends developers to write apps for their platform.  All of the tools and APIs are written to maximize the capability and productivity of native app developers.  It&rsquo;s not just Apple that has designed their platform this way, but the other major mobile platforms as well.  There&rsquo;s no intention to inject a third party between the developer and the platform.  The promises of a shortcut and potential productivity gains just aren&rsquo;t worth the loss in user experience.  Apple has provided some very powerful and easy to use APIs in the new SDK that will enable some very subtle, but pleasing UI interactions that users will come to expect.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[WWDC Eve]]></title>
-    <link href="http://centare-mobile.github.io/blog/2013/06/09/wwdc-eve/"/>
-    <updated>2013-06-09T20:55:00-05:00</updated>
-    <id>http://centare-mobile.github.io/blog/2013/06/09/wwdc-eve</id>
-    <content type="html"><![CDATA[<p>&lsquo;Twas the night before DubDub, when all thru the city,</p>
-
-<p>Lots of creatures were stirring about a new kitty.</p>
-
-<p>&lsquo;13&rsquo; jackets adorned on their backs with care,</p>
-
-<p>In hopes that Jony Ive soon would be <a href="http://instagram.com/p/aWoTw_H3ak/">there</a>;</p>
-
-<p>Developers nestled all snug in their beds,</p>
-
-<p>While visions of iOS 7 danced in their heads&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://centare-mobile.github.io/blog/2013/06/06/hello-world/"/>
-    <updated>2013-06-06T14:19:00-05:00</updated>
-    <id>http://centare-mobile.github.io/blog/2013/06/06/hello-world</id>
-    <content type="html"><![CDATA[<p>Thanks for stopping by.  We&rsquo;re excited to start this new blog written and crafted by the Mobile Team members of <a href="http://www.centare.com">Centare</a>.  We&rsquo;ll be posting some interesting insights and tidbits about mobile development.  Our team has a combined over 50 years of professional software development experience with over 10 years in mobile.  We work with a wide variety of clients in many different domains on lots of different products and projects.  We bring our passion, experience and expertise to each engagement and have lots of fun along the way.</p>
-
-<p>Check out the <a href="http://centare-mobile.github.io/about/">about</a> page for more info about our team.</p>
 ]]></content>
   </entry>
   

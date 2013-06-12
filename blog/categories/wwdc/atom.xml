@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Centare Mobile Team]]></title>
-  <link href="http://centare-mobile.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: WWDC | Centare Mobile Team]]></title>
+  <link href="http://centare-mobile.github.io/blog/categories/wwdc/atom.xml" rel="self"/>
   <link href="http://centare-mobile.github.io/"/>
   <updated>2013-06-12T12:59:08-05:00</updated>
   <id>http://centare-mobile.github.io/</id>
@@ -38,17 +38,6 @@
 <p>Developers nestled all snug in their beds,</p>
 
 <p>While visions of iOS 7 danced in their heads&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://centare-mobile.github.io/blog/2013/06/06/hello-world/"/>
-    <updated>2013-06-06T14:19:00-05:00</updated>
-    <id>http://centare-mobile.github.io/blog/2013/06/06/hello-world</id>
-    <content type="html"><![CDATA[<p>Thanks for stopping by.  We&rsquo;re excited to start this new blog written and crafted by the Mobile Team members of <a href="http://www.centare.com">Centare</a>.  We&rsquo;ll be posting some interesting insights and tidbits about mobile development.  Our team has a combined over 50 years of professional software development experience with over 10 years in mobile.  We work with a wide variety of clients in many different domains on lots of different products and projects.  We bring our passion, experience and expertise to each engagement and have lots of fun along the way.</p>
-
-<p>Check out the <a href="http://centare-mobile.github.io/about/">about</a> page for more info about our team.</p>
 ]]></content>
   </entry>
   
