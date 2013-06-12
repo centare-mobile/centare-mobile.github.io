@@ -20,7 +20,7 @@ footer: true
 <hr/>
 
 <img align="top" src="http://www.gravatar.com/avatar/ef2a57b1414e5fc7c8cf917f50cdb4e7?s=75" />&nbsp;
-**Keith McDondald**
+**Keith McDonald**
 ( [@mcd81](http://www.twitter.com/mcd81) | [github](https://github.com/keithamcdonald81) )
 <hr/>
 
