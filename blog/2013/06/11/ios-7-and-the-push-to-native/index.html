@@ -56,6 +56,7 @@ $(document).ready(
 );
 </script>
 	
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
 </head>
 
 
@@ -65,7 +66,9 @@ $(document).ready(
 <nav id="main-nav"><ul>
 	<li><a href="/">Blog</a></li>
 	<li><a href="/about">About</a></li>
-  <li><a href="/archives">Archive</a></li>
+	<li id="reading-list"><a href="/reading">Reading List</a></li>
+	<li id="tools-we-use"><a href="/tools">Tools</a></li>
+  	<li><a href="/archives">Archive</a></li>
 </ul>
 </nav>
 <nav id="mobile-nav">
@@ -74,7 +77,9 @@ $(document).ready(
 		<div class="container"><ul>
 	<li><a href="/">Blog</a></li>
 	<li><a href="/about">About</a></li>
-  <li><a href="/archives">Archive</a></li>
+	<li id="reading-list"><a href="/reading">Reading List</a></li>
+	<li id="tools-we-use"><a href="/tools">Tools</a></li>
+  	<li><a href="/archives">Archive</a></li>
 </ul>
 </div>
 	</div>
@@ -92,7 +97,9 @@ $(document).ready(
 
 </header>
 
-	<div id="content" class="inner"><article class="post">
+	<div id="content" class="inner">
+		<section id="inner-content">
+			<article class="post">
 	<h2 class="title">iOS 7 and the Push to Native</h2>
 	<div class="entry-content"><p>As I use the newly unveiled beta of iOS 7, I can&rsquo;t help but think that the OS is going to continue to drive more apps to full native development. As with previous releases of iOS, Apple is stretching the software and graphics capabilities in subtle but significant ways to deliver a polished best in class user experience.  In order to fully take advantage of the new UI paradigms and capabilities in iOS 7, developers will need to make use of the SDK and powerful tools it provides. HTML5 based app solutions will begin to stand out further from native and not in a good way.  Hybrid app solutions will not be able to take advantage of some of the great physics based UI elements that have been added to the iOS SDK.  Native app development is how Apple intends developers to write apps for their platform.  All of the tools and APIs are written to maximize the capability and productivity of native app developers.  It&rsquo;s not just Apple that has designed their platform this way, but the other major mobile platforms as well.  There&rsquo;s no intention to inject a third party between the developer and the platform.  The promises of a shortcut and potential productivity gains just aren&rsquo;t worth the loss in user experience.  Apple has provided some very powerful and easy to use APIs in the new SDK that will enable some very subtle, but pleasing UI interactions that users will come to expect.</p>
 </div>
@@ -148,7 +155,25 @@ $(document).ready(
     <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
 </section>
-</div>
+
+		</section>
+		<section id="sidebar">
+	<div class="reading-list">
+	<h4><i class="icon-book"></i>Reading List</h4>
+	<ul>
+	<li><a href="http://nshipster.com/">NSHipster</a></li>
+</ul>
+	</div>
+	<div class="tools">
+	<h4><i class="icon-dashboard"></i>Tools</h4>
+	<ul>
+	<li><a href="https://parse.com/">Parse</a></li>
+	<li><a href="https://github.com/AFNetworking/AFNetworking">AFNetworking</a></li>
+	<li><a href="https://github.com/magicalpanda/MagicalRecord">Magical Record</a></li>
+</ul>
+	</div>
+</section>
+	</div>
 	<footer id="footer" class="inner">Copyright &copy; Centare Mobile Team 2013
 
     

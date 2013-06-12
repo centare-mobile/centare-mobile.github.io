@@ -56,6 +56,7 @@ $(document).ready(
 );
 </script>
 	
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
 </head>
 
 
@@ -65,7 +66,9 @@ $(document).ready(
 <nav id="main-nav"><ul>
 	<li><a href="/">Blog</a></li>
 	<li><a href="/about">About</a></li>
-  <li><a href="/archives">Archive</a></li>
+	<li id="reading-list"><a href="/reading">Reading List</a></li>
+	<li id="tools-we-use"><a href="/tools">Tools</a></li>
+  	<li><a href="/archives">Archive</a></li>
 </ul>
 </nav>
 <nav id="mobile-nav">
@@ -74,7 +77,9 @@ $(document).ready(
 		<div class="container"><ul>
 	<li><a href="/">Blog</a></li>
 	<li><a href="/about">About</a></li>
-  <li><a href="/archives">Archive</a></li>
+	<li id="reading-list"><a href="/reading">Reading List</a></li>
+	<li id="tools-we-use"><a href="/tools">Tools</a></li>
+  	<li><a href="/archives">Archive</a></li>
 </ul>
 </div>
 	</div>
@@ -92,7 +97,9 @@ $(document).ready(
 
 </header>
 
-	<div id="content" class="inner"><article class="post">
+	<div id="content" class="inner">
+		<section id="inner-content">
+			<article class="post">
 	<h2 class="title">Hello World!</h2>
 	<div class="entry-content"><p>Thanks for stopping by.  We&rsquo;re excited to start this new blog written and crafted by the Mobile Team members of <a href="http://www.centare.com">Centare</a>.  We&rsquo;ll be posting some interesting insights and tidbits about mobile development.  Our team has a combined over 50 years of professional software development experience with over 10 years in mobile.  We work with a wide variety of clients in many different domains on lots of different products and projects.  We bring our passion, experience and expertise to each engagement and have lots of fun along the way.</p>
 
@@ -150,7 +157,25 @@ $(document).ready(
     <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
 </section>
-</div>
+
+		</section>
+		<section id="sidebar">
+	<div class="reading-list">
+	<h4><i class="icon-book"></i>Reading List</h4>
+	<ul>
+	<li><a href="http://nshipster.com/">NSHipster</a></li>
+</ul>
+	</div>
+	<div class="tools">
+	<h4><i class="icon-dashboard"></i>Tools</h4>
+	<ul>
+	<li><a href="https://parse.com/">Parse</a></li>
+	<li><a href="https://github.com/AFNetworking/AFNetworking">AFNetworking</a></li>
+	<li><a href="https://github.com/magicalpanda/MagicalRecord">Magical Record</a></li>
+</ul>
+	</div>
+</section>
+	</div>
 	<footer id="footer" class="inner">Copyright &copy; Centare Mobile Team 2013
 
     
