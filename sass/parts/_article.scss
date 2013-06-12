@@ -17,28 +17,30 @@ article{
 		margin-left:0px;
 		text-align:left;
 		border-bottom: 0px;
+		color: $color-main;
 		a{
-			color: #333;
+			color: $color-main;
 		}
 		a:hover{
-		color: $color-main;
-		border-bottom: 0px;
+			color: $color-main-highlight;
+			border-bottom: 0px;
 		}
-		border-bottom: 1px solid $color-main;
+		border-bottom: 1px solid $color-main-highlight;
 		padding-bottom: .75em;
 		@media screen and (max-width: 620px) {
 		font-size: 18px;
 		}
 
 	}
-
 	.entry-content{
 		line-height: 1.5;
 		text-align: left;
 		a{
+			color:$color-main;
+			border-bottom:1px solid $color-main;
 			&:hover{
-				text-decoration:none;
-
+				color:$color-main-highlight;
+				border-bottom:1px solid $color-main-highlight;
 			}
 		}
 		.more-link{
