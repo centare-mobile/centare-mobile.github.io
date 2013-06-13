@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Apple | Centare Mobile Team]]></title>
+  <link href="http://centare-mobile.github.io/blog/categories/apple/atom.xml" rel="self"/>
+  <link href="http://centare-mobile.github.io/"/>
+  <updated>2013-06-13T08:55:17-05:00</updated>
+  <id>http://centare-mobile.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Video: Making a difference. One app at a time.]]></title>
+    <link href="http://centare-mobile.github.io/blog/2013/06/12/apple-releases-new-video/"/>
+    <updated>2013-06-12T16:39:00-05:00</updated>
+    <id>http://centare-mobile.github.io/blog/2013/06/12/apple-releases-new-video</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/PGtP6ZQ6Lt8 "></iframe></div></p>
+
+<p>Apple today released a video on their <a href="http://www.youtube.com/watch?v=PGtP6ZQ6Lt8">YouTube channel</a> called &lsquo;Making a difference.  One app at a time.&rsquo;  It features several apps that are impacting lives around the world.  As I&rsquo;ve been attending sessions at WWDC, I&rsquo;ve seen an emphasis on accessibility and the capabilities that are built into iOS.  The video highlights how apps are being used on these platforms to have a huge impact on the daily lives of so many.  It&rsquo;s encouraging to see developers focused on solving so many different things across the globe.</p>
+]]></content>
+  </entry>
+  
+</feed>

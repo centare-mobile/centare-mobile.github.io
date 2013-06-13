@@ -4,7 +4,7 @@
   <title><![CDATA[Category: WWDC | Centare Mobile Team]]></title>
   <link href="http://centare-mobile.github.io/blog/categories/wwdc/atom.xml" rel="self"/>
   <link href="http://centare-mobile.github.io/"/>
-  <updated>2013-06-12T15:31:21-05:00</updated>
+  <updated>2013-06-13T08:55:17-05:00</updated>
   <id>http://centare-mobile.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[WWDC Halfway Point]]></title>
+    <link href="http://centare-mobile.github.io/blog/2013/06/12/wwdc-halfway-point/"/>
+    <updated>2013-06-12T17:12:00-05:00</updated>
+    <id>http://centare-mobile.github.io/blog/2013/06/12/wwdc-halfway-point</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s Wednesday of WWDC week and the day’s sessions are over.  It&rsquo;s hard to believe that we are already over half way thru the conference.  At WWDC, the learning flows like drinking from a firehose.  Sessions dealing with the new design and UI changes in iOS 7 seem to be the most popular spots.  Lines now feel like a normal part of every activity&hellip; waiting for a session to start, waiting for food, waiting to buy something, restrooms, etc.  It’s actually a pleasant surprise when you find something that doesn’t have a line.  All in all, it’s doable, but the lines do get a bit overwhelming.  This year’s conference is attended by over 60% new attendees.  There’s certainly some veterans here sporting coats from years past, but it’s clear that there are a lot of new faces.  I’m encouraged by the number of young students that are here as well.  Only a couple days left.  I’m hoping to take in several more session and talk to some engineers in the labs on a few topics.  There’s so much on the schedule each day it’s hard to get time to dig into code with the new SDK.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS 7 and the Push to Native]]></title>
